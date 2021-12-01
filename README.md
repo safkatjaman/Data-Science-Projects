@@ -2,3 +2,5 @@
 
 
 > Project 1: Investigating Netflix Movies and Guest Stars in The Office (Datacamp Career Track: Data Science with Python)
+
+> Project 2: The Android App Market on Google Play (Datacamp Career Track: Data Science with Python)
